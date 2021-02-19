@@ -50,9 +50,10 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      
 education:
     - degree: BSc in Computer Science
-      university: #
+      university: San Antonio College
       time: 2020-Present
       details: |
       # Describe uni stuff here
