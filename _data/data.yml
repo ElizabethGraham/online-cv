@@ -50,15 +50,14 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-      
 education:
     - degree: BSc in Computer Science
       university: San Antonio College
       time: 2020-Present
       details: |
-      # Describe uni stuff here
+        Planning on transferring to UTSA in one year.
           - 4.0 GPA
-          - Bullet point
+          - Freshman
 experiences:
     - role: AV Technician
       time: 2019 - Present
