@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Elizabeth Graham
     tagline: Software Developer
-    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: elizabethgraham2000@gmail.com
@@ -62,14 +62,14 @@ experiences:
       time: 2019 - Present
       company: Spurs Sports & Entertainment, San Antonio
       details: |
-        
+        Operated instant replay for live NBA games
           - Bullet point
           - Bullet point
     - role: Technical Director
       time: 2019
       company: Sports2Nite, San Antonio
       details: |
-        In this role I would direct and oversee production of three daily sports news broadcasts
+        In this role I directed and oversaw production of three daily sports news broadcasts
         while ensuring all deadlines were met.
           - Editor
           - Instant Replay
@@ -79,7 +79,7 @@ projects:
     intro: >
       My most developed and beloved project is my password manager program. 
       This project is very special to me because it not only is very useful in my life, 
-      but it helped me keep secure and safe development in mind.
+      but it helped me keep secure and safe development in mind. 
     assignments:
       - title: Password Manager
         link: "#hook"
