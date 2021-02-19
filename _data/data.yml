@@ -19,7 +19,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: ElizabethGraham
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -44,18 +44,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I've been fortunate enough to work with the San Antonio Spurs NBA team for around two 
+      years now, and in 2020 I enrolled in a Computer Science Bachelor's program to pursure
+      a career in Software Engineering. I got my start in video production four years ago as 
+      a freelance all-in-one shooter and editor, and eventually landed a job as a Technical 
+      Director in sport news. 
 education:
     - degree: BSc in Computer Science
       university: San Antonio College
       time: 2020-Present
       details: |
-        Planning on transferring to UTSA in one year.
+        Transferring to UTSA after my Sophomore year
           - 4.0 GPA
           - Freshman
 experiences:
@@ -78,7 +77,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      My most developed and beloved project is my password manager program, for certain. 
+      My most developed and beloved project is my password manager program. 
       This project is very special to me because it not only is very useful in my life, 
       but it helped me keep secure and safe development in mind.
     assignments:
