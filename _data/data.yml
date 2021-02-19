@@ -52,7 +52,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: BSc in Computer Science
-      # university: University of London
+      university: #
       time: 2020-Present
       details: |
       # Describe uni stuff here
