@@ -15,7 +15,7 @@ sidebar:
     email: elizabethgraham2000@gmail.com
     website: #blog.webjeda.com #do not add http://
     linkedin: elizabethagraham
-    github: GoodbyeBlues
+    github: ElizabethGraham
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -44,11 +44,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I've been fortunate enough to work with the San Antonio Spurs NBA team for around two 
-      years now, and in 2020 I enrolled in a Computer Science Bachelor's program to pursure
-      a career in Software Engineering. I got my start in video production four years ago as 
+      I got my start in video production four years ago as 
       a freelance all-in-one shooter and editor, and eventually landed a job as a Technical 
-      Director in sport news. 
+      Director in sport news. I've been fortunate enough to work with the San Antonio Spurs NBA team for around two 
+      years now, and in 2020 I enrolled in a Computer Science Bachelor's program to pursure
+      a career in Software Engineering. 
 education:
     - degree: BSc in Computer Science
       university: San Antonio College
@@ -62,27 +62,25 @@ experiences:
       time: 2019 - Present
       company: Spurs Sports & Entertainment, San Antonio
       details: |
-        Operated instant replay for live NBA games
-          - Bullet point
-          - Bullet point
+        Operated instant replay, player graphics, and video spots for live NBA games
+          - Implemented automations in video playback that resulted in far fewer errors due to software bugs
     - role: Technical Director
       time: 2019
       company: Sports2Nite, San Antonio
       details: |
-        In this role I directed and oversaw production of three daily sports news broadcasts
-        while ensuring all deadlines were met.
-          - Editor
-          - Instant Replay
+        Directed and oversaw production of three daily sports news broadcasts
+        while ensuring all deadlines and standards were met by the video editors.
+          - Improved video archiving efficiency by using Python to automatically transfer files to a remote server (was previously done manually, wasting countless man hours)
 
 projects:
     title: Projects
     intro: >
-      My most developed and beloved project is my password manager program. 
+      My most developed project is my password manager program. 
       This project is very special to me because it not only is very useful in my life, 
       but it helped me keep secure and safe development in mind. 
     assignments:
       - title: Password Manager
-        link: "#hook"
+        link: "https://github.com/ElizabethGraham/password-manager"
         tagline: "A convenient and lightweight program to securely manage and generate passwords."
 
 skills:
@@ -94,6 +92,8 @@ skills:
       - name: C#
 
       - name: Java
+      
+      - name: JavaScript
 
       - name: Git
 
